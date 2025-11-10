@@ -95,7 +95,7 @@ nav a:focus {
     height: 250px;
     position: absolute; /* Mudei de absolute para relative */
     top: 30%; /* Remove posicionamento absoluto */
-    left: 75%; /* Remove posicionamento absoluto */
+    left: 50%; /* Remove posicionamento absoluto */
     transform: none; /* Remove transform */
     background-color: #0f422c9f;
     border-radius: 30px;
